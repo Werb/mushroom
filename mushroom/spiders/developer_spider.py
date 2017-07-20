@@ -4,7 +4,7 @@ import scrapy
 from mushroom.items import DeveloperItem
 
 class developerSpider(scrapy.Spider):
-    name = "developer"
+    name = "developers"
 
     def parse(self, response):
         items = []
