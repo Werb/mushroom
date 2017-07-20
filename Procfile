@@ -1,1 +1,1 @@
-web: scrapyrt
+web: python scrapyrt
